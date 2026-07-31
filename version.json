@@ -1,11 +1,12 @@
 ﻿{
-    "version":  "2.0.11",
+    "version":  "2.0.12",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "1a3127fd9c466b4b0714773cc51aec9623ef882c688bb525533201994bc1aa9e",
+    "sha256":  "b70fc99294f89a46fdded1d66d964c72afdcb7fc303664852aa6e0e51ebd0b98",
     "changes":  [
-                    "Sua loi tai ve xong nhung khong tu cai dat duoc khi AutoCAD tu nap plugin qua bundle",
-                    "Ban cap nhat nay ghi de ca thu muc cai dat lan ban sao trong ApplicationPlugins, khong con canh bao cap nhat lap lai",
-                    "Updater ghi nhat ky ra file de chan doan khi cai dat that bai"
+                    "Sua loi chon Cong thuc tinh o bang Boc khoi luong khong an khi xuat Excel",
+                    "Cong thuc tu khai bao duoc luu lai, khong con mat khi dong AutoCAD",
+                    "Dropdown Cong thuc tu cap nhat ngay sau khi them hoac sua, giu nguyen lua chon dang co",
+                    "Cong thuc tu tao co ma dinh danh rieng nen ban ve cu van tra ra dung cong thuc"
                 ]
 }
