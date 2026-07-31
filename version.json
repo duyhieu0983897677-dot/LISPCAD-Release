@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.6",
+    "version":  "2.0.7",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "f53e4c18de5d7f246168b3617ab6fdf3b7f45fac23248840c8616513487706ff",
+    "sha256":  "4ca11bce1ed0e29adbd944ece156b6464e9e91b9a4cd6b6fc6ad4d5398fad456",
     "changes":  [
-                    "Sua loi cong thuc Xay tuong m3 bi thieu cot RONG (F*G*H) khi xuat Excel",
-                    "Uu tien tu khoa m3 va Xay tuong de xuat chinh xac cong thuc F*G*H"
+                    "Them o Dropdown chon Cong thuc tinh khoi luong truc tiep tren Palette",
+                    "Luu MaCongThuc vao DWG de khi xuat Excel luon lay dung 100% cong thuc nguoi dung da chon"
                 ]
 }
