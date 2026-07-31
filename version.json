@@ -1,10 +1,12 @@
 ﻿{
-    "version":  "2.0.14",
+    "version":  "2.0.15",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "9e6155ab3ed96403c81c270dfb9269725d2a0824274f43aeb2bdc0293bddacfd",
+    "sha256":  "4497c70338dd474b13a9e50d6a2d50182ddafd6454cb91172e70fb0162814f7c",
     "changes":  [
-                    "Them o loc theo Tang o Bang Thong Ke Khoi Luong",
-                    "Thu gon o tim kiem de nhuong cho o loc Tang, danh sach tang sap xep theo so"
+                    "Sua loi NGHIEM TRONG: xuat Excel ghi nham vao file khac dang mo thay vi file form",
+                    "Ban ve nho ca duong dan file lan ten sheet da xuat, khong con doan mo",
+                    "Hien hop xac nhan kem duong dan day du truoc khi ghi bat cu thu gi",
+                    "Sheet khong co cau truc bang boc khoi luong thi dung lai, khong tu tao dau muc"
                 ]
 }
