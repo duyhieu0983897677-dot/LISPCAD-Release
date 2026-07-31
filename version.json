@@ -1,12 +1,11 @@
 ﻿{
-    "version":  "2.0.15",
+    "version":  "2.0.16",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "4497c70338dd474b13a9e50d6a2d50182ddafd6454cb91172e70fb0162814f7c",
+    "sha256":  "1d17c5697277d268b65e2eb92f94cd950f260444f7dcd2d41a7bb31a4ff38b75",
     "changes":  [
-                    "Sua loi NGHIEM TRONG: xuat Excel ghi nham vao file khac dang mo thay vi file form",
-                    "Ban ve nho ca duong dan file lan ten sheet da xuat, khong con doan mo",
-                    "Hien hop xac nhan kem duong dan day du truoc khi ghi bat cu thu gi",
-                    "Sheet khong co cau truc bang boc khoi luong thi dung lai, khong tu tao dau muc"
+                    "SUA GAP loi ban 2.0.15 chan nham chinh file form that, khong xuat duoc Excel",
+                    "Nhan dien form theo so nhan tieu de, chap nhan tieu de hai dong gop o",
+                    "Khong chan cung nua: chi canh bao va de nguoi dung quyet dinh"
                 ]
 }
