@@ -1,13 +1,10 @@
-{
-  "version": "2.0.3",
-  "releaseDate": "2026-07-31",
-  "downloadUrl": "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-  "sha256": "2bb61dbd086976d447be5819a0622da8e281558deedf4cf931111cf9e59d86f2",
-  "changes": [
-    "Sửa triệt để lỗi Tìm trên bản vẽ bị zoom ra một chỗ rất xa thay vì phóng tới đối tượng",
-    "Chọn nhiều dòng rồi Tìm: khung nhìn bao quát vừa đủ toàn bộ đối tượng đã chọn",
-    "Tự chuyển về đúng không gian Model hoặc Layout đang chứa đối tượng trước khi phóng tới",
-    "Không còn xoá mất liên kết giữa dòng khối lượng và nét vẽ khi bấm Áp dụng ở bảng thống kê",
-    "Sửa cơ chế tự động cập nhật: chuyển nguồn phát hành sang kho công khai để mọi máy đều tải được"
-  ]
+﻿{
+    "version":  "2.0.4",
+    "releaseDate":  "2026-07-31",
+    "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
+    "sha256":  "5f364237f3cfe77b2a8cff9754e55146737dcc189a22c75d27b96cb1d305689a",
+    "changes":  [
+                    "An nut Tai cap nhat khi dang o phien ban moi nhat",
+                    "Sua mau sac nut va hien thi chu dang tai ro dang hon"
+                ]
 }
