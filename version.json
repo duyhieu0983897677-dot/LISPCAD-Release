@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.7",
+    "version":  "2.0.8",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "4ca11bce1ed0e29adbd944ece156b6464e9e91b9a4cd6b6fc6ad4d5398fad456",
+    "sha256":  "ec8836fe8ed6ec26e75d8c17871aa90aa3ae99ea99cb95fdad65b8cb7097e86b",
     "changes":  [
-                    "Them o Dropdown chon Cong thuc tinh khoi luong truc tiep tren Palette",
-                    "Luu MaCongThuc vao DWG de khi xuat Excel luon lay dung 100% cong thuc nguoi dung da chon"
+                    "Tu dong loai bo cac dong mo coi khi doi tuong tren CAD bi xoa bang phim Delete/ERASE",
+                    "Bo sung nut Don Dep Rac CAD tren Bang Thong Ke va dong bo thoi gian thuc"
                 ]
 }
