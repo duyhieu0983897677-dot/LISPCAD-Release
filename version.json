@@ -1,12 +1,10 @@
 ﻿{
-    "version":  "2.0.13",
+    "version":  "2.0.14",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "74757976e0212cf760707f5de59b788a80b9e98f5bee7261b723780ed5336de4",
+    "sha256":  "9e6155ab3ed96403c81c270dfb9269725d2a0824274f43aeb2bdc0293bddacfd",
     "changes":  [
-                    "Cong thuc tinh nay doc duoc bieu thuc bat ky voi F, G, H, S va cac phep + - * / ^ cung dau ngoac",
-                    "Go sai cu phap bi bao loi ngay khi luu, khong con am tham tinh thanh Dai x Cao",
-                    "Cong thuc tu khai bao duoc uu tien hon cong thuc mac dinh khi nhan dien theo tu khoa",
-                    "O bo trong khong con lam ca dong ra 0 trong file Excel"
+                    "Them o loc theo Tang o Bang Thong Ke Khoi Luong",
+                    "Thu gon o tim kiem de nhuong cho o loc Tang, danh sach tang sap xep theo so"
                 ]
 }
