@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "2.0.12",
+    "version":  "2.0.13",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "b70fc99294f89a46fdded1d66d964c72afdcb7fc303664852aa6e0e51ebd0b98",
+    "sha256":  "74757976e0212cf760707f5de59b788a80b9e98f5bee7261b723780ed5336de4",
     "changes":  [
-                    "Sua loi chon Cong thuc tinh o bang Boc khoi luong khong an khi xuat Excel",
-                    "Cong thuc tu khai bao duoc luu lai, khong con mat khi dong AutoCAD",
-                    "Dropdown Cong thuc tu cap nhat ngay sau khi them hoac sua, giu nguyen lua chon dang co",
-                    "Cong thuc tu tao co ma dinh danh rieng nen ban ve cu van tra ra dung cong thuc"
+                    "Cong thuc tinh nay doc duoc bieu thuc bat ky voi F, G, H, S va cac phep + - * / ^ cung dau ngoac",
+                    "Go sai cu phap bi bao loi ngay khi luu, khong con am tham tinh thanh Dai x Cao",
+                    "Cong thuc tu khai bao duoc uu tien hon cong thuc mac dinh khi nhan dien theo tu khoa",
+                    "O bo trong khong con lam ca dong ra 0 trong file Excel"
                 ]
 }
