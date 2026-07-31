@@ -1,10 +1,11 @@
 ﻿{
-    "version":  "2.0.10",
+    "version":  "2.0.11",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "bba6c8817a6272d592219f7211c4f614bbacba5b9dd099f9ef01a69efc1b9383",
+    "sha256":  "1a3127fd9c466b4b0714773cc51aec9623ef882c688bb525533201994bc1aa9e",
     "changes":  [
-                    "Sua loi khoa file VK_Updater.exe khi di chuyen thu muc hoac bam cap nhat nhieu lan",
-                    "Tu dong dong tien trinh updater cu va dung ten file cap nhat duy nhat cho tung lan tai"
+                    "Sua loi tai ve xong nhung khong tu cai dat duoc khi AutoCAD tu nap plugin qua bundle",
+                    "Ban cap nhat nay ghi de ca thu muc cai dat lan ban sao trong ApplicationPlugins, khong con canh bao cap nhat lap lai",
+                    "Updater ghi nhat ky ra file de chan doan khi cai dat that bai"
                 ]
 }
