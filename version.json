@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.9",
+    "version":  "2.0.10",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "6851cbda0539ac9ff4e035f83cf5e4404f3646b914f4a74590cb6e932f9fc86e",
+    "sha256":  "bba6c8817a6272d592219f7211c4f614bbacba5b9dd099f9ef01a69efc1b9383",
     "changes":  [
-                    "Tu dong dang ky DLL chay voi AutoCAD khi khoi dong khong can NETLOAD",
-                    "Tich hop Autodesk ApplicationPlugins Bundle va HKCU Registry AutoLoad"
+                    "Sua loi khoa file VK_Updater.exe khi di chuyen thu muc hoac bam cap nhat nhieu lan",
+                    "Tu dong dong tien trinh updater cu va dung ten file cap nhat duy nhat cho tung lan tai"
                 ]
 }
