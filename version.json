@@ -1,12 +1,13 @@
 ﻿{
-    "version":  "2.0.17",
+    "version":  "2.0.18",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "5120be1b2556987d40bd83eb44c481a7757cbb6a984dd81f2328d16ba453d66e",
+    "sha256":  "77bd233ddab6fe8d2233464d8cc0c2196f934cddd13692bc8c7c83aa450ae2cc",
     "changes":  [
-                    "Don Rac CAD nay phat hien ca doi tuong da copy nhung chua co dong trong bang",
-                    "Dang ky bang copy thanh dong moi, kich thuoc do lai tu hinh hoc that",
-                    "Go nhan khoi luong: mac dinh giu net ve, chi go dau vet de dang ky lai duoc",
-                    "Nut Xoa Dong cu nay go luon XData nen net ve giu lai khong con bi ket"
+                    "Don Rac CAD phan biet dut lien ket voi ban copy that, them nut Noi lai lien ket",
+                    "Sua loi xuat Excel khong nhan cot SL/CK nen dong khau tru bi cong thay vi tru",
+                    "Bang dieu khien tu hien va ghim le trai khi mo AutoCAD, khong can go TL2",
+                    "Sua tieu de cot bang bi mo khong doc duoc tren nen toi",
+                    "Them nut chon nhanh trong Don Rac CAD"
                 ]
 }
