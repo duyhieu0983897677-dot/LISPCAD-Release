@@ -1,11 +1,12 @@
 ﻿{
-    "version":  "2.0.16",
+    "version":  "2.0.17",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "1d17c5697277d268b65e2eb92f94cd950f260444f7dcd2d41a7bb31a4ff38b75",
+    "sha256":  "5120be1b2556987d40bd83eb44c481a7757cbb6a984dd81f2328d16ba453d66e",
     "changes":  [
-                    "SUA GAP loi ban 2.0.15 chan nham chinh file form that, khong xuat duoc Excel",
-                    "Nhan dien form theo so nhan tieu de, chap nhan tieu de hai dong gop o",
-                    "Khong chan cung nua: chi canh bao va de nguoi dung quyet dinh"
+                    "Don Rac CAD nay phat hien ca doi tuong da copy nhung chua co dong trong bang",
+                    "Dang ky bang copy thanh dong moi, kich thuoc do lai tu hinh hoc that",
+                    "Go nhan khoi luong: mac dinh giu net ve, chi go dau vet de dang ky lai duoc",
+                    "Nut Xoa Dong cu nay go luon XData nen net ve giu lai khong con bi ket"
                 ]
 }
