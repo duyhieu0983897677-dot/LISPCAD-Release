@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.8",
+    "version":  "2.0.9",
     "releaseDate":  "2026-07-31",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "ec8836fe8ed6ec26e75d8c17871aa90aa3ae99ea99cb95fdad65b8cb7097e86b",
+    "sha256":  "6851cbda0539ac9ff4e035f83cf5e4404f3646b914f4a74590cb6e932f9fc86e",
     "changes":  [
-                    "Tu dong loai bo cac dong mo coi khi doi tuong tren CAD bi xoa bang phim Delete/ERASE",
-                    "Bo sung nut Don Dep Rac CAD tren Bang Thong Ke va dong bo thoi gian thuc"
+                    "Tu dong dang ky DLL chay voi AutoCAD khi khoi dong khong can NETLOAD",
+                    "Tich hop Autodesk ApplicationPlugins Bundle va HKCU Registry AutoLoad"
                 ]
 }
