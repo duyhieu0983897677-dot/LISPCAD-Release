@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.22",
+    "version":  "2.0.23",
     "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "d324a698e4ada83d5a055a991d585226d3aae85d3bb1e86791000325ce63ff6d",
+    "sha256":  "3d1ce380313646552345c4b8c773df43a15f8e7838ac12af84de977ccfc27935",
     "changes":  [
-                    "Thêm nút xoá dạng thép trong bảng chọn kiểu"
+                    "Tích hợp mẫu bảng Thép vào Form bóc khối lượng và bổ sung nút thao tác Thép trên giao diện Bóc khối lượng"
                 ]
 }
