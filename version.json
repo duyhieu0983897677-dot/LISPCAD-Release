@@ -1,13 +1,13 @@
 ﻿{
-    "version":  "2.0.18",
-    "releaseDate":  "2026-07-31",
+    "version":  "2.0.19",
+    "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "77bd233ddab6fe8d2233464d8cc0c2196f934cddd13692bc8c7c83aa450ae2cc",
+    "sha256":  "bfa9f0f268938cb1d9d229c2c7405970ced8505185dbd008ef5a2a9ee13c3dc4",
     "changes":  [
-                    "Don Rac CAD phan biet dut lien ket voi ban copy that, them nut Noi lai lien ket",
-                    "Sua loi xuat Excel khong nhan cot SL/CK nen dong khau tru bi cong thay vi tru",
-                    "Bang dieu khien tu hien va ghim le trai khi mo AutoCAD, khong can go TL2",
-                    "Sua tieu de cot bang bi mo khong doc duoc tren nen toi",
-                    "Them nut chon nhanh trong Don Rac CAD"
+                    "Sua loi lam chet AutoCAD khi bam Them thanh trong Bang Thong Ke Thep",
+                    "Bang thep nay chia hai tang: them CAU KIEN truoc, roi them thanh thep vao cau kien do",
+                    "Xuat thep sang sheet Thep trong chinh file Excel dang boc khoi luong, noi tong sang KLCT bang dong don vi tan",
+                    "Do hinh dang thanh thep va chieu dai rai thang tu ban ve",
+                    "Bang tong hop khoi luong thep theo duong kinh va theo cau kien"
                 ]
 }
