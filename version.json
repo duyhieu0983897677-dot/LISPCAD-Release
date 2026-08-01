@@ -1,13 +1,9 @@
 ﻿{
-    "version":  "2.0.20",
+    "version":  "2.0.21",
     "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "47f811521504060240f007f3ef0cebb9a73f1fc2135371eab93fad96e0f89805",
+    "sha256":  "20adc1e745e1916d72d7df973c78ee711ea1d02a62abbab0ca4aebc6263a831b",
     "changes":  [
-                    "Sua chu bi mo trong cac cua so thep, thanh tieu de theo nen toi",
-                    "Form ve dang: go ten xong Backspace xoa duoc chu, khong con bi dem di hoan tac net ve",
-                    "Nhan L1 L2 hien ngay tren tung doan da ve",
-                    "Cac doan bang nhau tu dung chung mot ky hieu va chi phai go MOT so",
-                    "Kieu hinh dang nay di theo ban ve, doi may hay gui cho nguoi khac khong mat"
+                    "Tự tạo hình ảnh dạng thép vào thư mục HinhDangThep và chèn vào ô Excel khi xuất"
                 ]
 }
