@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.24",
+    "version":  "2.0.25",
     "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "590fc8f171ada347ac8d12f2b0464485d66799558fcbd65e6b15e824851e432f",
+    "sha256":  "86bf36ea78640abd1041a71fd50a1d91626714b116d730ce57134fec35f9911d",
     "changes":  [
-                    "Sửa vị trí dòng đầu xuất Excel Thép bắt đầu từ dòng 4 và triệt để khắc phục lỗi mờ nhòe màu nút bấm/giao diện"
+                    "Xuất Thép sang file mẫu Thép riêng (thep.xlsx) và chuẩn hóa vị trí chèn các thanh thép tiếp theo trong cùng nhóm"
                 ]
 }
