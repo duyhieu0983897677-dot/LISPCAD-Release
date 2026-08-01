@@ -1,9 +1,11 @@
 ﻿{
-    "version":  "2.0.25",
+    "version":  "2.0.26",
     "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "86bf36ea78640abd1041a71fd50a1d91626714b116d730ce57134fec35f9911d",
+    "sha256":  "11ebab00d49d2ff2fa23863c2576055591d23ef8c94ad25d7f64287706805f4a",
     "changes":  [
-                    "Xuất Thép sang file mẫu Thép riêng (thep.xlsx) và chuẩn hóa vị trí chèn các thanh thép tiếp theo trong cùng nhóm"
+                    "Tam khoa phan Thong Ke Thep - tab van hien nhung bao dang cap nhat",
+                    "Phan boc khoi luong khong doi",
+                    "Don kho: bo mot ban clone lac 40 MB va bo nho dem Visual Studio"
                 ]
 }
