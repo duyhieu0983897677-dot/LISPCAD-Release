@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.23",
+    "version":  "2.0.24",
     "releaseDate":  "2026-08-01",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "3d1ce380313646552345c4b8c773df43a15f8e7838ac12af84de977ccfc27935",
+    "sha256":  "590fc8f171ada347ac8d12f2b0464485d66799558fcbd65e6b15e824851e432f",
     "changes":  [
-                    "Tích hợp mẫu bảng Thép vào Form bóc khối lượng và bổ sung nút thao tác Thép trên giao diện Bóc khối lượng"
+                    "Sửa vị trí dòng đầu xuất Excel Thép bắt đầu từ dòng 4 và triệt để khắc phục lỗi mờ nhòe màu nút bấm/giao diện"
                 ]
 }
