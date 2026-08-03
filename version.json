@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.28",
+    "version":  "2.0.29",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "6d9be07e630f1572f48f16e3b26edb00971624599c12902d569bf35d7002c3a5",
+    "sha256":  "4690f0e65ca30d4403e7f0e528f1c120b3179c094d976f090fdb12edc46a806b",
     "changes":  [
-                    "Mo file Excel mau dang Workbooks.Add de bam Ctrl+S tu bat cua so Save As,Chan luu duong dan file mau vao ban ve DWG"
+                    "Uu tien lay file form mau Excel tu chinh thu muc chua file DLL"
                 ]
 }
