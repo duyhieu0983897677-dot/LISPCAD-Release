@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.33",
+    "version":  "2.0.34",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "efdbf0b123fb952ae28fdfc2fae4f9f4548ecadaa018aaec25ce6629fedb4ac5",
+    "sha256":  "85ecc4b7847664fe3c7e0d85b907e288796b0a3389666058c964f40b88d92985",
     "changes":  [
-                    "Sửa lỗi bảo toàn dữ liệu DWG khi xuất lọc công tác (không bị mất danh sách công tác trong Dropdown),Tự động đồng bộ trạng thái Đã xuất mà vẫn bảo toàn 100% các công tác còn lại trên bản vẽ DWG"
+                    "Sửa lỗi xuất công thức Bê tông sàn / cấu kiện diện tích có chiều cao (tự động ánh xạ cột I Diện tích vào công thức Excel),Bổ sung công thức mặc định Bê tông sàn / Nền (H*S) vào danh sách công thức"
                 ]
 }
