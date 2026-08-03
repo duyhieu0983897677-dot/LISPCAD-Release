@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.32",
+    "version":  "2.0.33",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "0103a12bd0fc44ec67d5683b0cd307ad4d56567e6c07bad0535077e0935fe43d",
+    "sha256":  "efdbf0b123fb952ae28fdfc2fae4f9f4548ecadaa018aaec25ce6629fedb4ac5",
     "changes":  [
-                    "Cập nhật thẻ Tổng Khối Lượng Dồn hiển thị theo nhóm công tác đang lọc (trừ khối lượng khấu trừ),Thêm popup lựa chọn phạm vi xuất Excel (xuất riêng công tác chọn hoặc xuất tổng toàn bộ công tác)"
+                    "Sửa lỗi bảo toàn dữ liệu DWG khi xuất lọc công tác (không bị mất danh sách công tác trong Dropdown),Tự động đồng bộ trạng thái Đã xuất mà vẫn bảo toàn 100% các công tác còn lại trên bản vẽ DWG"
                 ]
 }
