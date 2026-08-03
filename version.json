@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.27",
+    "version":  "2.0.28",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "899c3eef067e834aa66c9bdcf6d74fc4e9af9ea865615fb999b5ccb46a2b346d",
+    "sha256":  "6d9be07e630f1572f48f16e3b26edb00971624599c12902d569bf35d7002c3a5",
     "changes":  [
-                    "Giữ nguyên Công thức tính khi chọn lại Cách đo"
+                    "Mo file Excel mau dang Workbooks.Add de bam Ctrl+S tu bat cua so Save As,Chan luu duong dan file mau vao ban ve DWG"
                 ]
 }
