@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.31",
+    "version":  "2.0.32",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "13a0c77c685f12f5b555ef2f9ffc73f4bb8f33f4c6ddc16cf0405f0aeb261e68",
+    "sha256":  "0103a12bd0fc44ec67d5683b0cd307ad4d56567e6c07bad0535077e0935fe43d",
     "changes":  [
-                    "Bổ sung ô chọn Công thức tính vào cửa sổ Sửa thuộc tính cấu kiện cho phép thay đổi công thức khi chọn nhầm,Tự động tính toán lại khối lượng theo công thức mới khi sửa thuộc tính cho 1 hoặc nhiều đối tượng"
+                    "Cập nhật thẻ Tổng Khối Lượng Dồn hiển thị theo nhóm công tác đang lọc (trừ khối lượng khấu trừ),Thêm popup lựa chọn phạm vi xuất Excel (xuất riêng công tác chọn hoặc xuất tổng toàn bộ công tác)"
                 ]
 }
