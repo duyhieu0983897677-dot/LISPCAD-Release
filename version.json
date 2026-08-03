@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.29",
+    "version":  "2.0.30",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "4690f0e65ca30d4403e7f0e528f1c120b3179c094d976f090fdb12edc46a806b",
+    "sha256":  "8082c18ed4a4c0b894939ee6c1ea61864294aa80c40113ed439c446e5516cfc0",
     "changes":  [
-                    "Uu tien lay file form mau Excel tu chinh thu muc chua file DLL"
+                    "Sửa lỗi công thức đo diện tích có chiều cao (Cao x Diện tích) bị mất chiều cao và tính sai khối lượng,Cập nhật tự động tính khối lượng theo công thức khi xem/sửa bảng thống kê, kéo dãn hình CAD và sửa thuộc tính hàng loạt"
                 ]
 }
