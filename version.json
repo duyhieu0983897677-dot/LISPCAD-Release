@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.30",
+    "version":  "2.0.31",
     "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "8082c18ed4a4c0b894939ee6c1ea61864294aa80c40113ed439c446e5516cfc0",
+    "sha256":  "13a0c77c685f12f5b555ef2f9ffc73f4bb8f33f4c6ddc16cf0405f0aeb261e68",
     "changes":  [
-                    "Sửa lỗi công thức đo diện tích có chiều cao (Cao x Diện tích) bị mất chiều cao và tính sai khối lượng,Cập nhật tự động tính khối lượng theo công thức khi xem/sửa bảng thống kê, kéo dãn hình CAD và sửa thuộc tính hàng loạt"
+                    "Bổ sung ô chọn Công thức tính vào cửa sổ Sửa thuộc tính cấu kiện cho phép thay đổi công thức khi chọn nhầm,Tự động tính toán lại khối lượng theo công thức mới khi sửa thuộc tính cho 1 hoặc nhiều đối tượng"
                 ]
 }
