@@ -1,11 +1,9 @@
 ﻿{
-    "version":  "2.0.26",
-    "releaseDate":  "2026-08-01",
+    "version":  "2.0.27",
+    "releaseDate":  "2026-08-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "11ebab00d49d2ff2fa23863c2576055591d23ef8c94ad25d7f64287706805f4a",
+    "sha256":  "899c3eef067e834aa66c9bdcf6d74fc4e9af9ea865615fb999b5ccb46a2b346d",
     "changes":  [
-                    "Tam khoa phan Thong Ke Thep - tab van hien nhung bao dang cap nhat",
-                    "Phan boc khoi luong khong doi",
-                    "Don kho: bo mot ban clone lac 40 MB va bo nho dem Visual Studio"
+                    "Giữ nguyên Công thức tính khi chọn lại Cách đo"
                 ]
 }
