@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.34",
-    "releaseDate":  "2026-08-03",
+    "version":  "2.0.35",
+    "releaseDate":  "2026-08-06",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "85ecc4b7847664fe3c7e0d85b907e288796b0a3389666058c964f40b88d92985",
+    "sha256":  "babd6a74e4d521b0dcd73a9ec975e7d76c6fc1a303c02ab8a4610845dc5c38cc",
     "changes":  [
-                    "Sửa lỗi xuất công thức Bê tông sàn / cấu kiện diện tích có chiều cao (tự động ánh xạ cột I Diện tích vào công thức Excel),Bổ sung công thức mặc định Bê tông sàn / Nền (H*S) vào danh sách công thức"
+                    "Sửa lỗi tính khối lượng bị sai với công thức Diện tích x Chiều cao (ví dụ Bê tông sàn H*S)"
                 ]
 }
