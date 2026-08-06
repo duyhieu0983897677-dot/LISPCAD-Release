@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "2.0.35",
+    "version":  "2.0.36",
     "releaseDate":  "2026-08-06",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "babd6a74e4d521b0dcd73a9ec975e7d76c6fc1a303c02ab8a4610845dc5c38cc",
+    "sha256":  "f80922f222e053aa2de4e99d5966beb4501f18d6ac84de0a130c84e72b45ea89",
     "changes":  [
-                    "Sửa lỗi tính khối lượng bị sai với công thức Diện tích x Chiều cao (ví dụ Bê tông sàn H*S)"
+                    "Sửa lỗi tính khối lượng diện tích khi dùng công thức có chứa biến F (Dài)"
                 ]
 }
