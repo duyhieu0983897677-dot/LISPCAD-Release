@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "2.0.38",
+    "version":  "2.0.39",
     "releaseDate":  "2026-08-09",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "eba9284137ee4753aab5f7172dc786fafb7650be8dade696389f9d1783dcc21b",
+    "sha256":  "dd6d83aa22878ee3481ff3be63f33545b6e5835b3fdd0f102c00886e2ff5bc9a",
+    "signature":  "DMo5fslZaOa28eVzNJyTEk+kPMqU2pZCTlDM0cOyOPC6yfWgw/CGHb5AiHHNXi1OmJyV5tHyVG3HtUqZWx8X4BGdLj9xiJiYogqX8EQG5E+zGEJsQPGUI8FOh+hfLdTuomvZlgcztQvzzjI9CTQ6oS2avcQwaI6AAdcoI7n04hoqo4FLGxBu3tMwyuEnoyU0owW4hhnpFXYYAUWX5SfxMdPufEEiCacHK3/cy4WnOO7kfGf4sZwJGOuNhieT4ASWOewr0ateXY0SHGr2++ZjJWHCrYmMuj10I3f2Xz1LSu2EoblkDiI0MBuUHM+/yV7TvexuzLlVgcORcuOQH0qu4Q==",
     "changes":  [
-                    "Cải thiện bảo mật hệ thống đăng ký/kích hoạt bản quyền",
-                    "Giới hạn đăng ký dùng thử: mỗi máy chỉ được cấp 1 lần trong 25 ngày",
-                    "Sửa lỗi bảo mật khi tìm file mẫu Excel",
-                    "Sửa lỗi lệch hàng giao diện Bảng Thống Kê"
+                    "Tang cuong bao mat qua trinh dang ky va kich hoat ban quyen",
+                    "Tang cuong bao ve chong can thiep trai phep vao phan mem",
+                    "Ky so va xac minh chu ky cho goi cap nhat, khong chi so sanh ma bam"
                 ]
 }
