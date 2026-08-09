@@ -1,12 +1,13 @@
 ﻿{
-    "version":  "2.0.39",
+    "version":  "2.0.40",
     "releaseDate":  "2026-08-09",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "dd6d83aa22878ee3481ff3be63f33545b6e5835b3fdd0f102c00886e2ff5bc9a",
-    "signature":  "DMo5fslZaOa28eVzNJyTEk+kPMqU2pZCTlDM0cOyOPC6yfWgw/CGHb5AiHHNXi1OmJyV5tHyVG3HtUqZWx8X4BGdLj9xiJiYogqX8EQG5E+zGEJsQPGUI8FOh+hfLdTuomvZlgcztQvzzjI9CTQ6oS2avcQwaI6AAdcoI7n04hoqo4FLGxBu3tMwyuEnoyU0owW4hhnpFXYYAUWX5SfxMdPufEEiCacHK3/cy4WnOO7kfGf4sZwJGOuNhieT4ASWOewr0ateXY0SHGr2++ZjJWHCrYmMuj10I3f2Xz1LSu2EoblkDiI0MBuUHM+/yV7TvexuzLlVgcORcuOQH0qu4Q==",
+    "sha256":  "572204d33069e9d144f360d85e8f9f4633f851586a3eefa29c7acce8ced70bb0",
+    "signature":  "LWWaozRRz7ObGfDPZIHS0/GT5l3oYw7mkL75efqrpbzyuYy3SqB4136AduHSMGCF2qDjYKTE6cqbHuPNaHTSm3DgNwoxdj8C4MYRAZVDT9POQ1b9lYZjLhJFHnBIlxthjriUKOuiLk3U4F5dsbEqAt6koLRs8jF0+kQA9OGBSKBqT0zFB9PAaLYfMFcety5zZg/FCgGmtiNS8vvevpmPI/L2pbccPmzdWqriIgLnB/PKBkWgIK2FouAGc3VbRZAq383SP6T+Q5OQjGCbns8BF2GpE9I6ND3exLPtQYk7dRu1rLVFHpHEzw+1F8MU185gMmu+LeIqarVpp0PlEP6kzg==",
     "changes":  [
-                    "Tang cuong bao mat qua trinh dang ky va kich hoat ban quyen",
-                    "Tang cuong bao ve chong can thiep trai phep vao phan mem",
-                    "Ky so va xac minh chu ky cho goi cap nhat, khong chi so sanh ma bam"
+                    "Tang han dung thu tu 30 len 120 ngay",
+                    "Moi may chi duoc dung thu 1 lan duy nhat (truoc chi chan tam thoi 120 ngay)",
+                    "Va lo hong cho phep dung lenh truc tiep (VKVE, VKTRU...) ma khong can kich hoat ban quyen",
+                    "Tu dong phat hien het han ban quyen ngay trong luc phan mem dang chay"
                 ]
 }
