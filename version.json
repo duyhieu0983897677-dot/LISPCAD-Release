@@ -1,14 +1,12 @@
 ﻿{
-    "version":  "2.0.37",
-    "releaseDate":  "2026-08-08",
+    "version":  "2.0.38",
+    "releaseDate":  "2026-08-09",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "3eaa0757ba97e5ba7b5dcfa7cf629f2303986e5ec31c4bc622981b9bc34433cc",
+    "sha256":  "eba9284137ee4753aab5f7172dc786fafb7650be8dade696389f9d1783dcc21b",
     "changes":  [
-                    "Sua loi Ve Polyline do Be tong san: hien hatch mo cho da giac, va giu nguyen Loai cau kien/Cong thuc tinh khi ve lien tiep nhieu cau kien",
-                    "Them nut Lay Thiet Lap Tu Doi Tuong Co San: click 1 cau kien da boc de nap thiet lap cua no len bang, dung ve cau kien khac cung thiet lap",
-                    "Sua loi Chon CAD / Lay Thiet Lap mat Cong thuc tinh khi click vao nhan (chu hien thi) thay vi net ve",
-                    "Redesign giao dien nut bam cho bang chinh va Bang Thong Ke, ro rang chuyen nghiep hon",
-                    "Sua layout 3 tab (Boc Khoi Luong / Cai Dat Cong Thuc / Thep) luon thang hang mot dong",
-                    "Sua loi nghiem trong: lenh mo bang (TL2) khong bat loi co the lam treo AutoCAD; thao tac Ap Dung co the ghi nham doi tuong khi mo nhieu ban ve song song"
+                    "Cải thiện bảo mật hệ thống đăng ký/kích hoạt bản quyền",
+                    "Giới hạn đăng ký dùng thử: mỗi máy chỉ được cấp 1 lần trong 25 ngày",
+                    "Sửa lỗi bảo mật khi tìm file mẫu Excel",
+                    "Sửa lỗi lệch hàng giao diện Bảng Thống Kê"
                 ]
 }
