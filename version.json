@@ -1,12 +1,11 @@
 ﻿{
-    "version":  "2.0.41",
-    "releaseDate":  "2026-08-09",
+    "version":  "2.0.42",
+    "releaseDate":  "2026-08-10",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "0a252908376aed9b8b94f592ae673305f134c84dfc9df10481b7b39b855225b8",
-    "signature":  "P+Gcx4m4+ncqxkZvJHgVrr2RNWTfyN/PHOj4EuY2dAwi7Q3cayz5jWm01M+Bx3wqnZsGaTNlZj8XQIfTcJOIqGrK6TSrCQkRBKYtCoXaqGcEnwI9alPk9FFMLf4ulHHZDWfgI47ECk/MQdWtejOucrm6BE6bW/5SLMe6bKqp9Io0cYgYme1NQPChHT823Q/9+OTRniZ0+ilIwvIoSt7EQb8P+ytWhtTHOcYcvj6mVXSmXtVWR7jJx7ougFjkLDfjIzXCO7Y1amDzB1ioqtYq4TS+UODxrjJvlLhZ2JO5VSueJ6/r7M9wlWDHO2xfOPt1mBBHxQoProEpO1SfZyvYAg==",
+    "sha256":  "368e7f3a76ade07be3682c7e7576bdc9f03d936724517fc1b7dcfb6e8991e91c",
+    "signature":  "BbLotLFtt99mdu448WzTKnHC4hrDC2fMOCNZJ5i+NcX9C+mUD6snHDqJw+6TFGhSFUK6zQKFX9jCz5fYb+spQvfFapf262zufcGTWHVNlDT053CIxOihWRddbxN6/iCjzJPtY+l9/aLoBZ2QYhLG+dPqQQke0I3lvn5GZIUGg3HFFnM1Znl0wT+N7gttqteuDqXC0x/BlONaCCu4+KRTfMQpcZ4QhE5I3S6uw0yyYHYyVN03qaX5v2zakxYxUyIOzaRi8Cp3jDfm2ovmhw2hbZD6Np79j21OFTPQT1pucYis+tnNzlDGe1vySsl78J73vlBH3sDqej+M4i2SXJ19MA==",
     "changes":  [
-                    "Rut ngan dinh dang key ban quyen (bo lop Base64 thua, them so phien ban de mo rong sau nay)",
-                    "Va loi hien thi sai thong bao khi kich hoat key that bai",
-                    "Them tinh nang Ung Ho Cho Toi / Dang Ky Ban Quyen ngay trong app"
+                    "Doc duoc key dung thu dinh dang cu (truoc phien 13) de khong khoa vinh vien khach da co key hop le truoc khi doi dinh dang",
+                    "Them nut Dang Ky/Mua Ban Quyen ngay trong tab Nhap Key Thuong Mai"
                 ]
 }
