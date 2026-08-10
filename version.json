@@ -1,11 +1,10 @@
 ﻿{
-    "version":  "2.0.42",
+    "version":  "2.0.43",
     "releaseDate":  "2026-08-10",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "368e7f3a76ade07be3682c7e7576bdc9f03d936724517fc1b7dcfb6e8991e91c",
-    "signature":  "BbLotLFtt99mdu448WzTKnHC4hrDC2fMOCNZJ5i+NcX9C+mUD6snHDqJw+6TFGhSFUK6zQKFX9jCz5fYb+spQvfFapf262zufcGTWHVNlDT053CIxOihWRddbxN6/iCjzJPtY+l9/aLoBZ2QYhLG+dPqQQke0I3lvn5GZIUGg3HFFnM1Znl0wT+N7gttqteuDqXC0x/BlONaCCu4+KRTfMQpcZ4QhE5I3S6uw0yyYHYyVN03qaX5v2zakxYxUyIOzaRi8Cp3jDfm2ovmhw2hbZD6Np79j21OFTPQT1pucYis+tnNzlDGe1vySsl78J73vlBH3sDqej+M4i2SXJ19MA==",
+    "sha256":  "7e69abe4d72e669f99972c5986062d14776b744ec7b2292611d4a5e8f8c2fd0d",
+    "signature":  "ag3s4hKZ780OJBCT/m3FttFgu2oFAxSq2E7bgRq23XC7Cfk2PUcSQPOL8EBmVt5QVLft0bXt3Ks39/cQnunvMN6gApWtivWirUjrC80eE+Tn/0FBt4hrBLJI55eDViVORbb3D2IrgiZ3PVpHO7QgEMdq/FQYnsHMggJiGsII80rGomkEBcD9FarIA/07/BEeKArLV6LvIunkgzKTk+VGI4e4icoZwdypA/uLcdu8EUtE1CYfrYiIAqJSsU4BMHX1zMRBZyTrSSe0QqS9aMn2OcZSWDWQgjzLuKk5QuqhWHpxq+LnncPMhEKmMorgiNRMd1qS4GbjH44ItIxBUo7p/Q==",
     "changes":  [
-                    "Doc duoc key dung thu dinh dang cu (truoc phien 13) de khong khoa vinh vien khach da co key hop le truoc khi doi dinh dang",
-                    "Them nut Dang Ky/Mua Ban Quyen ngay trong tab Nhap Key Thuong Mai"
+                    "Tang do rong mac dinh cua bang dieu khien tu 330 len 600 khi mo lan dau tren mot may"
                 ]
 }
