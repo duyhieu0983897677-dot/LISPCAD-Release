@@ -1,11 +1,15 @@
 ﻿{
-    "version":  "2.0.44",
-    "releaseDate":  "2026-08-10",
+    "version":  "2.0.45",
+    "releaseDate":  "2026-08-11",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "e18aa988a5efefad69366479eb939d99f7aa0b3d37a0ae6c6e5840aeb817b7ba",
-    "signature":  "B2ikNsQnzumTxFA8MfV9qk3n+5OgRoXdzpB7VVu0tycizAuQek79qepcdc17kzaOkb5or01FeS9j67fJGK6M60exVDiT/ci6YoVSECXJvs1LBwdpGidVFEFUxV3xoUmuX0B6I655DA8cKekwjEq3xL6W3UzXTkbVn4vBcz1OJBU75n5/j057/VCTwRI8/Y4PujTPvvUeIjF4j0DP1skQHN6wB972nM52tBfTp6zsLYnKEaazuZgNB+wNcho2uKhulFWNbQbhCsHADdNeINprJ8ObLt/napdKl2Y6mgPDTyY9p+EOiPGnSZcBm69i8msGT5w5LIoDQy/XWIEM+HImnw==",
+    "sha256":  "1b9bbf3fa3bf5171bf4d0f45c78e0422641952fc795a258331d2f1d4caf91dfc",
+    "signature":  "F5QIzcMMjY9vRm7BkrvAKZRVW/KxEilqOF1beEm+LKpJoJPgZUYxckHkcrP5tD8PLBTLdQtLE04OioE+ipe8AiEP35bGgr01SFDhNMFEabiyPK1twZCFNb9HrYsavPVu0YxbBby8S46mr9heozjd80eAwa68OJan9q4eLJKZ0DJjY0LB5L8T8XvO7/sUC0tOhHrEStmXOzRIespIwUSVNkE3yvznzRuDqNrDc1e+Qa8x5+bBw9WX78L7E+pH9XXoKg3GgacMkSAgzALUHUzIXp5NaQET3f0Zf2pzLibNPK4blTzNiXdRt9dvyfkgnK3UoXUppbRhJ4d+R0jdfMikYg==",
     "changes":  [
-                    "He so don vi tu nhan theo Ty le ban ve da chon, sua loi chi tiet ve phong to (vd TL 1/25) khong ve dung kich thuoc that khi tinh khoi luong",
-                    "Them khau tru dien tich cho cau kien dang dien tich (ve hinh chu nhat dung lo, tru thang dien tich), truoc day Khau Tru chi dung duoc cho cau kien dang dai (tuong)"
+                    "Them khau tru theo mot vat co san (hinh kin hoac ho, vi du bo tru/lanh to) - khong can do/gan truoc, ap dung ca khi cha la dien tich lan dang dai",
+                    "Tu hoi nhap RONG ngay tren dong lenh khi can, khong bat doi Loai cau kien; chan chon trung doi tuong cha lam vat can tru; nhan khau tru tu xoay theo huong net va ne chong nhan",
+                    "Sua loi Khau Tru kieu cu bao Khong do duoc doi tuong nay khi click trung nhan thay vi net ve",
+                    "Sua loi click vao hatch cua cau kien dien tich bi coi la chua boc khoi luong",
+                    "Sua loi co Dien Tich bi mat khi xuat Excel/lam moi Bang Thong Ke doi voi ban ghi khau tru theo vat, lam sai lech ca cot hien thi lan khoi luong",
+                    "Sua loi Chon net co san tu y khep kin net ve ho chi vi ten cau kien co chu m2, gay do sai Dai thanh Dien Tich"
                 ]
 }
