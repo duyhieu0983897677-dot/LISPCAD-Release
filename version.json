@@ -1,15 +1,12 @@
 ﻿{
-    "version":  "2.0.45",
-    "releaseDate":  "2026-08-11",
+    "version":  "2.0.46",
+    "releaseDate":  "2026-08-18",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "1b9bbf3fa3bf5171bf4d0f45c78e0422641952fc795a258331d2f1d4caf91dfc",
-    "signature":  "F5QIzcMMjY9vRm7BkrvAKZRVW/KxEilqOF1beEm+LKpJoJPgZUYxckHkcrP5tD8PLBTLdQtLE04OioE+ipe8AiEP35bGgr01SFDhNMFEabiyPK1twZCFNb9HrYsavPVu0YxbBby8S46mr9heozjd80eAwa68OJan9q4eLJKZ0DJjY0LB5L8T8XvO7/sUC0tOhHrEStmXOzRIespIwUSVNkE3yvznzRuDqNrDc1e+Qa8x5+bBw9WX78L7E+pH9XXoKg3GgacMkSAgzALUHUzIXp5NaQET3f0Zf2pzLibNPK4blTzNiXdRt9dvyfkgnK3UoXUppbRhJ4d+R0jdfMikYg==",
+    "sha256":  "2ab32cdadfb0d0c3dd6ad19d6853b2d6837df626686e6932a3f877227f98de9a",
+    "signature":  "NrSnx4fi/94pDlgp2cFg7RYRvH9t4eLtW60k0xAOuMhQqh6nIgRFOtWCy6Is+RlzHkBZaUtFjGZXeCFfqhk9+xjaSrJd23GXNRnwiQI5XAUs7Du9GfAUpZxcoJcSXX/N7Ya/jVfmvIHtR06dSSGmcVMW0Gm2LlJ6tWs6OYh1CWDIYY/l0ub7+ojAsUSkgAjdwRaS0RhCyfsrxhJ056K/BZG907pX0sZ2X78N5EE55ppwUPd8JbQNOB3PgOXkuktG6AQStcltCNzYcz/l3J69XbCpCfy3YbBaF8UD/bsBKHLaEyy87K6gGG/rWRGbGeC1hsJqmr/RaPDoFxizZtEeww==",
     "changes":  [
-                    "Them khau tru theo mot vat co san (hinh kin hoac ho, vi du bo tru/lanh to) - khong can do/gan truoc, ap dung ca khi cha la dien tich lan dang dai",
-                    "Tu hoi nhap RONG ngay tren dong lenh khi can, khong bat doi Loai cau kien; chan chon trung doi tuong cha lam vat can tru; nhan khau tru tu xoay theo huong net va ne chong nhan",
-                    "Sua loi Khau Tru kieu cu bao Khong do duoc doi tuong nay khi click trung nhan thay vi net ve",
-                    "Sua loi click vao hatch cua cau kien dien tich bi coi la chua boc khoi luong",
-                    "Sua loi co Dien Tich bi mat khi xuat Excel/lam moi Bang Thong Ke doi voi ban ghi khau tru theo vat, lam sai lech ca cot hien thi lan khoi luong",
-                    "Sua loi Chon net co san tu y khep kin net ve ho chi vi ten cau kien co chu m2, gay do sai Dai thanh Dien Tich"
+                    "Thay bảng nhãn bằng MText một dòng có khung, hiển thị cân đối sát đường PL",
+                    "Làm nổi kết quả bằng nền trắng chữ đen; tự ẩn kích thước không có dữ liệu",
+                    "Đặt nhãn cấu kiện khấu trừ ở phía đối diện đường PL để tránh chồng lấn"
                 ]
 }
