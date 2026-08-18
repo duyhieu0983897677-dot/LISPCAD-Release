@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "2.0.46",
+    "version":  "2.0.47",
     "releaseDate":  "2026-08-18",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "2ab32cdadfb0d0c3dd6ad19d6853b2d6837df626686e6932a3f877227f98de9a",
-    "signature":  "NrSnx4fi/94pDlgp2cFg7RYRvH9t4eLtW60k0xAOuMhQqh6nIgRFOtWCy6Is+RlzHkBZaUtFjGZXeCFfqhk9+xjaSrJd23GXNRnwiQI5XAUs7Du9GfAUpZxcoJcSXX/N7Ya/jVfmvIHtR06dSSGmcVMW0Gm2LlJ6tWs6OYh1CWDIYY/l0ub7+ojAsUSkgAjdwRaS0RhCyfsrxhJ056K/BZG907pX0sZ2X78N5EE55ppwUPd8JbQNOB3PgOXkuktG6AQStcltCNzYcz/l3J69XbCpCfy3YbBaF8UD/bsBKHLaEyy87K6gGG/rWRGbGeC1hsJqmr/RaPDoFxizZtEeww==",
+    "sha256":  "5975955f98d3e1d9bbc4d967e2c2d9bf74472c03d482597689201ba435b5fe56",
+    "signature":  "ecnDrzHdsrmrWhg4yFQ7uEVEapo4+qjiLb2xdn5ZJ9lzbeyNyRcSy5H+G/xdSgiNm8/pQEtKKhv5SkPmJWIfNZQxz5I1+LCSEsB+6pPW30/7r7Y05pH2rJ3v8OH4vmnopm9iSV73dHWktzLy3X9jjnt24kImmnCOxv5kdr+RLEcWvWdSE2a282WyUVf47pwvPfb4TYX8jaFUA4j0ioU1Jz1qP2mWZ+4j0Hwc9Th4qa+k6Ko9tr1YayxCjRKsKN494/N+3HV4lLwxT35NqmlovYHShdqxkY2/J1Z9yCWI3YZdnR9Gct8HLBVnj2jRAVqbMUAPsqxp+Z1ZahCzqgLmNQ==",
     "changes":  [
-                    "Thay bảng nhãn bằng MText một dòng có khung, hiển thị cân đối sát đường PL",
-                    "Làm nổi kết quả bằng nền trắng chữ đen; tự ẩn kích thước không có dữ liệu",
-                    "Đặt nhãn cấu kiện khấu trừ ở phía đối diện đường PL để tránh chồng lấn"
+                    "Sửa nhãn cũ chồng lên giao diện MText mới sau khi cập nhật",
+                    "Tự chuyển đổi nhãn cũ và loại bỏ nhãn trùng có liên kết đúng với cấu kiện",
+                    "Thêm lệnh VKSUANHAN để sửa toàn bộ nhãn trong bản vẽ và đồng bộ lại handle, XData"
                 ]
 }
