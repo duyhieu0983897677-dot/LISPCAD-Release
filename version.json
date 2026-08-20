@@ -1,12 +1,11 @@
 ﻿{
-    "version":  "2.0.49",
+    "version":  "2.0.50",
     "releaseDate":  "2026-08-20",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "af3b4f3986b2992970e7172af31df6b0dc505a7be41fecd78cbaeb5ccb614511",
-    "signature":  "LElRHYmZgoKzUKNnZZNlEN1yW7Bfy31EGn6TZ1jdHtaTl14QlaLULe01j3kRX6IC6yVdyIUwVe4SFdA+erm2CfqGy2KCUWM/23oWZHThK+XhkHvjFJuwYeACgvJnRrU/9HqgyH7KwEThbrnUhulXBkxMhxsRO0RwFCy9/RAHIo8GTTT0jAvEtL5sZVzzQimsq7uu8ttn8gGmVwsT0o+9N3igKaKV9oszSeZ8IKOAfjZEqF0r00gSe24vL3/pqsW5zXZe2I7dRvZ6ha/fY/jn84Cz8xkFr+T18D0QGe6wf6jC48cT/ts5mKqAuRc1bVby0IKGaq9I9rDKczKxcdNuTw==",
+    "sha256":  "ff59495b8d41cf2888281ff8423dfb381e39039c165835aa945841f16b2d87d1",
+    "signature":  "dSBIUpLcj+cONBUt9oD/+VtzBVE9q4b+HC3/FZd2eabEDIY7pO/ywPakYcf4N3GYKHPVfjuB6PovSGOa/9pZWrBIztHds07ZBvP7vHN7y+9U6THDsMXzFMLeiAwcMDpX2k5Yx56NKoPO6HNlZRC11kPTA2D1FDr+h1Gd86dEzUN5NArSMmL7OSfFH8IMS+IY1gWyUiMs/gtOKeL0yiGA3CLd5myAPEEQDPn/ZygYj+J6LqOvdMlBIy7uRw9Qjou6ZCM1PTChvxAWMmtuuTkrj4+4slpZwb8a7T1KSC7HAPZ4qqhDT3NJP/8wiZv18A14NSADKOM05+UYmhCZHajjlw==",
     "changes":  [
-                    "Hiển thị khấu trừ 2 điểm bằng PL offset nét đứt, nhãn cha và nhãn trừ đối xứng không bị nét cắt ngang",
-                    "Tự động định dạng lại nhãn và chuyển khấu trừ 2 điểm cũ theo kiểu hiển thị mới",
-                    "Xóa dòng trong Bảng Thống Kê sẽ xóa sạch PL, nhãn, hatch và toàn bộ khấu trừ con"
+                    "Đặt nhãn khấu trừ 2 điểm tại giữa chiều dài PL khấu trừ, giữ đúng khoảng hở ngoài nét",
+                    "Thêm nút Sửa Thuộc Tính trên Bảng Điều Khiển, hỗ trợ chọn nhiều PL hoặc nhãn trên bản vẽ"
                 ]
 }
