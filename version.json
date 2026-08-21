@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.50",
-    "releaseDate":  "2026-08-20",
+    "version":  "2.0.51",
+    "releaseDate":  "2026-08-21",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "ff59495b8d41cf2888281ff8423dfb381e39039c165835aa945841f16b2d87d1",
-    "signature":  "dSBIUpLcj+cONBUt9oD/+VtzBVE9q4b+HC3/FZd2eabEDIY7pO/ywPakYcf4N3GYKHPVfjuB6PovSGOa/9pZWrBIztHds07ZBvP7vHN7y+9U6THDsMXzFMLeiAwcMDpX2k5Yx56NKoPO6HNlZRC11kPTA2D1FDr+h1Gd86dEzUN5NArSMmL7OSfFH8IMS+IY1gWyUiMs/gtOKeL0yiGA3CLd5myAPEEQDPn/ZygYj+J6LqOvdMlBIy7uRw9Qjou6ZCM1PTChvxAWMmtuuTkrj4+4slpZwb8a7T1KSC7HAPZ4qqhDT3NJP/8wiZv18A14NSADKOM05+UYmhCZHajjlw==",
+    "sha256":  "02b746afdddd61a2bab623688f6f924d36819fcb73631ae5172f65b0dbdd26ba",
+    "signature":  "JYY9I5WNSXnA+v14hntSrjWClmBFdNCsev2dVhAAqWMiM//eG70OIxSI7P3W30xFfAo+7FwpGgBJFNCocqFDXPYVatQGupk8+iYnzsyAxKF1vUZfZ52/C9rrsgO0YuWDnklruHT1Y2IV3kwRmegV8aSeIbrIHha5HBlRLkmU7vMtlFfdxxRTi0XUJXxHh+lkXQqpoYw3fWfACrvmufncWZiTWHBZsgPkrro7MsbsdLEUldqUm2+yunuWmU6izYFaBT1rlGZZGSGBTR5QZG3s6RhLJa37DUvjkdqIrOWHNWWhSurQwmdpVC9iiUzrMgvNbR9d+8mDXvzuhnnc9ghhXg==",
     "changes":  [
-                    "Đặt nhãn khấu trừ 2 điểm tại giữa chiều dài PL khấu trừ, giữ đúng khoảng hở ngoài nét",
-                    "Thêm nút Sửa Thuộc Tính trên Bảng Điều Khiển, hỗ trợ chọn nhiều PL hoặc nhãn trên bản vẽ"
+                    "Sửa nút Sửa Thuộc Tính ghi đúng dòng NOD bằng handle thực, giữ đầy đủ liên kết PL/nhãn/khung",
+                    "Đồng bộ NOD, XData và block nhãn; Bảng Thống Kê tự nạp lại sau khi lệnh AutoCAD hoàn tất"
                 ]
 }
