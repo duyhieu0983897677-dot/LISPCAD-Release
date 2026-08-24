@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "2.0.51",
-    "releaseDate":  "2026-08-21",
+    "version":  "2.0.52",
+    "releaseDate":  "2026-08-24",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "02b746afdddd61a2bab623688f6f924d36819fcb73631ae5172f65b0dbdd26ba",
-    "signature":  "JYY9I5WNSXnA+v14hntSrjWClmBFdNCsev2dVhAAqWMiM//eG70OIxSI7P3W30xFfAo+7FwpGgBJFNCocqFDXPYVatQGupk8+iYnzsyAxKF1vUZfZ52/C9rrsgO0YuWDnklruHT1Y2IV3kwRmegV8aSeIbrIHha5HBlRLkmU7vMtlFfdxxRTi0XUJXxHh+lkXQqpoYw3fWfACrvmufncWZiTWHBZsgPkrro7MsbsdLEUldqUm2+yunuWmU6izYFaBT1rlGZZGSGBTR5QZG3s6RhLJa37DUvjkdqIrOWHNWWhSurQwmdpVC9iiUzrMgvNbR9d+8mDXvzuhnnc9ghhXg==",
+    "sha256":  "e60382ab84256d865720a06f3f5d5487211b0778a92b4b22f970d98240f983e9",
+    "signature":  "If4ZiSMpoHaDDqhQtNeyekSEvOv2RqqCwYEHzsh5H3fiyc4xq+epsy4U0l3I22bz4WUri/SQnOmQXnS2RxacuIBi/dQsjxwhwKlEqvdxB4oP+o1exKoTkY5AXspGufOXgjBRPz4h8eTNiXd87SFE0ns29ktQ+6eoqam0oWJMP/EkGCjst+Zk4mHlfUqeSFcHizxGs3Znuib95kV6i7pi+vydR1WJbJsdZjFe+2ZshrluRi4Aq+/4EdmChl+NJy/662KU5+CkzWoN8ondHJQnF8U1cgiRrDkvBkquCHrPlJz+s2wFo3vEGJAyDLjrCps26mdl53XZxB+bTP/hqSCtkw==",
     "changes":  [
-                    "Sửa nút Sửa Thuộc Tính ghi đúng dòng NOD bằng handle thực, giữ đầy đủ liên kết PL/nhãn/khung",
-                    "Đồng bộ NOD, XData và block nhãn; Bảng Thống Kê tự nạp lại sau khi lệnh AutoCAD hoàn tất"
+                    "Hiển thị dấu trừ tại cột Khối lượng cho các dòng khấu trừ trong Bảng Thống Kê",
+                    "Giữ nguyên khối lượng lưu trong NOD và công thức tổng, tránh trừ hai lần"
                 ]
 }
