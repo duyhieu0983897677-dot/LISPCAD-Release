@@ -1,11 +1,10 @@
 ﻿{
-    "version":  "2.0.52",
-    "releaseDate":  "2026-08-24",
+    "version":  "2.0.53",
+    "releaseDate":  "2026-08-27",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "e60382ab84256d865720a06f3f5d5487211b0778a92b4b22f970d98240f983e9",
-    "signature":  "If4ZiSMpoHaDDqhQtNeyekSEvOv2RqqCwYEHzsh5H3fiyc4xq+epsy4U0l3I22bz4WUri/SQnOmQXnS2RxacuIBi/dQsjxwhwKlEqvdxB4oP+o1exKoTkY5AXspGufOXgjBRPz4h8eTNiXd87SFE0ns29ktQ+6eoqam0oWJMP/EkGCjst+Zk4mHlfUqeSFcHizxGs3Znuib95kV6i7pi+vydR1WJbJsdZjFe+2ZshrluRi4Aq+/4EdmChl+NJy/662KU5+CkzWoN8ondHJQnF8U1cgiRrDkvBkquCHrPlJz+s2wFo3vEGJAyDLjrCps26mdl53XZxB+bTP/hqSCtkw==",
+    "sha256":  "27f2c3f426bde5b2c78f299bb29f93c5e637ba9a78add076cda59c3fb5f6a59d",
+    "signature":  "RHdm3QeR8HAbWOlaCC7DJ5ELrdSaWnUJ6vOLN3TSYhrRRK75md5DkVdT61Tvbm7UesqN/0DJDl22ldkn/lQgVvFonMVaaBzbz7X+27kksfhZVVhrl7uCcaxb+r7mHeRFElGNjPKNP74JkY9RlVHKzlv6jA9ScC9BnVv7iujxDFfTi1Xv+vcw7+WfbowzxEdBNWVAhyOXUwUOS6a6j2IrmSXpGiA4yWuFBc/3xGge7GF3SDPR4R5OBbjugmcrfla8Sqq8MDg44anp+VdOvV1JtU2IZoUv/+Th+/BTEp6w34psGLkiNAzLVYyXuE6SKqNHstsMPvF/nPT4auYqdiSDpw==",
     "changes":  [
-                    "Hiển thị dấu trừ tại cột Khối lượng cho các dòng khấu trừ trong Bảng Thống Kê",
-                    "Giữ nguyên khối lượng lưu trong NOD và công thức tổng, tránh trừ hai lần"
+                    "Thêm chức năng copy đối tượng hàng loạt"
                 ]
 }
