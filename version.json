@@ -1,13 +1,10 @@
 ﻿{
-    "version":  "2.0.54",
-    "releaseDate":  "2026-08-28",
+    "version":  "2.0.55",
+    "releaseDate":  "2026-08-29",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "036d820bf26ec6a2259b97bc0b20e6f88686bb0ee1a6b71a2a17af90f83cea45",
-    "signature":  "Os7X3IPetQRd2SvSt9slaC2PCKKFHYS+2hEJdugPZFRcAQb/Z9O7CpJKTayn/Pp6rbHEr0BxKtwdWb1p/fboL4m4m7Egs0gshbO77F3TGFwBcV1KJCb9kA6BOrXafIHOMnrxFW6G7Nd9MthNukleM8e/qQ0z7aNAKmx4j+B3gViYj+NwfC55YAwFpUCSC629a99u5sI4sXBumYdfelnWDjzZDF+q96ShJFCnPEBFhjqnTzkLMt15eYtKBryBA21of2/SklnjwmgqhHFAPd3b2tXQInfspvp5Kj0xxMjO8Koqyg9eSl37EcucvNyuTvQWXY/aodlqpQQrujMVWLK/xQ==",
+    "sha256":  "16e2cb21178b10588bc01c73601dd117e25745be32f4ff63c4cd089b7825ac9f",
+    "signature":  "iKJrel8G6CXcExP70Hls4b116iO3T4kJq4dzvnyZPuNeRPrgWfcUKF3/A04VNs7F+4xqgw8bUqRLYC7yo30sA3sw2UWtlNCVqy2mgM8jzlVG8N/qf2Zbt+NxWqoASTacCAXH5Qju5AI0XKSeNJReSVo2v/yA9aQYMFkRzBFWQhIfx6T+CW2l5o8PkgdTrkNBMaFZ/7GmmjC+Xna6/nOigivqKZElXvIU4fK37eqovHp8W8nzzZNclaPq9PO00zWgDT1pk1pM5tf4SZuaBn1hL6HEUVR6vL49s0vIR4KmUpJ3/KzNTb3eOUQYWY3kqTe/KR9Zhm6/3T8RbZSMUSOG2g==",
     "changes":  [
-                    "Thêm bộ công cụ CAD và giao diện icon thống nhất",
-                    "Thống kê TEXT/MTEXT ra bảng CAD, giữ nguyên chữ hoa thường",
-                    "Xuất trực tiếp Table CAD được chọn sang Excel",
-                    "Cân chỉnh cỡ chữ, hàng và độ rộng cột bảng thống kê"
+                    "Điều chỉnh giao diện bảng điều khiển"
                 ]
 }
