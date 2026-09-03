@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.55",
-    "releaseDate":  "2026-08-29",
+    "version":  "2.0.56",
+    "releaseDate":  "2026-09-03",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "16e2cb21178b10588bc01c73601dd117e25745be32f4ff63c4cd089b7825ac9f",
-    "signature":  "iKJrel8G6CXcExP70Hls4b116iO3T4kJq4dzvnyZPuNeRPrgWfcUKF3/A04VNs7F+4xqgw8bUqRLYC7yo30sA3sw2UWtlNCVqy2mgM8jzlVG8N/qf2Zbt+NxWqoASTacCAXH5Qju5AI0XKSeNJReSVo2v/yA9aQYMFkRzBFWQhIfx6T+CW2l5o8PkgdTrkNBMaFZ/7GmmjC+Xna6/nOigivqKZElXvIU4fK37eqovHp8W8nzzZNclaPq9PO00zWgDT1pk1pM5tf4SZuaBn1hL6HEUVR6vL49s0vIR4KmUpJ3/KzNTb3eOUQYWY3kqTe/KR9Zhm6/3T8RbZSMUSOG2g==",
+    "sha256":  "a180d3f107dd29ee22f145f3341bde9f86d56bf8e171dc9779af3b0208923719",
+    "signature":  "OXJK4kpLzv4lSMPGBW5g11t4y7C3f5Vp4plOPaq4I38Lzh31ApkM62crOgFR9hCu2E8ou9/Z2pTU12hH6pI2lTe8j30Et6nwRdvsJ+bxuB34HY9+ZVp/6PvWeIoZR3T9dB4jsl0NPMCqdnlRUjfWx5Ubi3JgQIbTh3d8IkcD4Qzj8kvYJbBMLu/dRc1g7oU/TDdeQVvzojnwOsy+Huj5BXj+TBILwFpjE3MlpasZvbzHiHQLvloScvdAxb9d6GQRwH2CtqCEt1qXiC1+Fr1fI8HIDHVOzW10X+bf3e9/PxtU03PGEuMnu3WYhc3tcq2lh9rJD6PHUPW/f2bY/zHiVw==",
     "changes":  [
-                    "Điều chỉnh giao diện bảng điều khiển"
+                    "Sửa lỗi Copy cấu kiện: sao chép đầy đủ nét, nhãn và khung,Nối lại liên kết bản sao độc lập, không còn trỏ về đối tượng gốc"
                 ]
 }
