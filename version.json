@@ -1,10 +1,12 @@
 ﻿{
-    "version":  "2.0.56",
-    "releaseDate":  "2026-09-03",
+    "version":  "2.0.57",
+    "releaseDate":  "2026-09-08",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "a180d3f107dd29ee22f145f3341bde9f86d56bf8e171dc9779af3b0208923719",
-    "signature":  "OXJK4kpLzv4lSMPGBW5g11t4y7C3f5Vp4plOPaq4I38Lzh31ApkM62crOgFR9hCu2E8ou9/Z2pTU12hH6pI2lTe8j30Et6nwRdvsJ+bxuB34HY9+ZVp/6PvWeIoZR3T9dB4jsl0NPMCqdnlRUjfWx5Ubi3JgQIbTh3d8IkcD4Qzj8kvYJbBMLu/dRc1g7oU/TDdeQVvzojnwOsy+Huj5BXj+TBILwFpjE3MlpasZvbzHiHQLvloScvdAxb9d6GQRwH2CtqCEt1qXiC1+Fr1fI8HIDHVOzW10X+bf3e9/PxtU03PGEuMnu3WYhc3tcq2lh9rJD6PHUPW/f2bY/zHiVw==",
+    "sha256":  "15204936d7d03328d29072370431c7051c23003463cb277c3b53f4580487d313",
+    "signature":  "ddWJNk/3A4oB9kiLa09S8S0JR/jgHPdKFKbcCtFfbkWuS7Xn6Waq34EZqqHRFJ+pk1fVBDmbGgO3I4XJhIX0prEPvjnlHegtkZNAblQg1HR9PZWZdVvymmmr0DF8VtNE5y5F5JoMmluku1M5P0e4a70StbR5r38ED/CBlAqEIKGLgMuyp7JOoxn6DaUOpjfXUhkq07Jec4+7RxjZigop2sBX3j2xGWDNR1ttc9TDUtRuQg8H+MFO8arBP6fgqo6VufBy1gAisdV4Favx7fXWnOapIJ67vnrxJXgBcjFLiA1UUXxzFbbOP7stngebNGaQOmqAJ+QxlXLWuYkqiv1OnQ==",
     "changes":  [
-                    "Sửa lỗi Copy cấu kiện: sao chép đầy đủ nét, nhãn và khung,Nối lại liên kết bản sao độc lập, không còn trỏ về đối tượng gốc"
+                    "Thêm tính ván khuôn bốn mặt đứng và bê tông lót móng",
+                    "Hỗ trợ móng có phần vát hoặc móng khối chữ nhật không vát",
+                    "Bỏ ex/ey, cải thiện giao diện nhập và giữ tương thích dữ liệu móng cũ"
                 ]
 }
