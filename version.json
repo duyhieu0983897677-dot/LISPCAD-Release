@@ -1,13 +1,12 @@
 ﻿{
-    "version":  "2.0.58",
+    "version":  "2.0.59",
     "releaseDate":  "2026-09-10",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "4e185158758f364ccf5d075035d23b7c6488b81de8a532f40ffb419b763881df",
-    "signature":  "WR3mAs4okykfd2YcznR0G96ytT5orrerBm9siO4GHzMsPrKWEC4C1lVCpzDF0/2waoF3tvsxf0ZAx9K6G+OLU/eHzs1t2+WfwTUKYh58PltpJzZu6rsFa2sy6RwN1XOx/g+rXiejAWZTWnfycMxri2Pd+L7YaCYgkDsDi+gSBUwLEClbCBLmvqwWluYZ7IZjjD6WV3IuAmJgdQadDJJjWKfq2kuRH/b5kr09exVkXeG40OX13ZaJ6Q64ieFPC4jUo2ydLD5Xxnsn8x2PIHYTS+Prd79e7GwlcshVuZT1H1ZzjQnvNuM8Z+xECL9cMsL6IUsxy179mae4+P/pWEWBSA==",
+    "sha256":  "7b0d33aead3beb30cc9e27977e36f77669cd9e5b8fe1d06fb21fe974689a159f",
+    "signature":  "BgXvt+ECE4K+WbgcNrNsmZoUg9yFDEPO3dktJPfMeDBkXXIaelCL3yaUbtxf4kFCXjxrJJPJKSCTbM+3cggCjXcqigS5Cp92HjdKQVBwH2PDMT2B/DPmNkMq1/Rls6+B0G7W6wdZFdfGpc1qxOqzTKleyvcunzbbNqnPmLt08Qm6DJ9yQXYBWBt9k+KsJ6fuo91zsOZ9Ox7m8Ac02ZOLWTw3NnQ/IS8363gZONVlAQJdGb0saIv1MrWdahLhONkwiBXRVxDDKyod0WKZtV1c7iebjd82A6y7eCCre/HPmuY3gDjm8ipA0DvhR6mSpXMoQf2TLMgxm6L/R7I3Tm0iNA==",
     "changes":  [
-                    "Thêm nút đo nhanh liên hoàn kích thước móng đơn từ mặt bằng và mặt cắt",
-                    "Tự nhận cạnh dài ngắn A B và a b, hiển thị lời nhắc bằng Dynamic Input AutoCAD",
-                    "Cho phép chọn TEXT hoặc MTEXT để điền tên móng",
-                    "Thêm đường nhập key đã mua ngay khi đang dùng thử"
+                    "Lưu liên kết TEXT/MTEXT nguồn theo từng dòng của bảng thống kê CAD",
+                    "Thêm nút Tìm trong TK để click dòng, tự zoom và chọn sáng các TEXT/MTEXT tương ứng",
+                    "Tự chuyển đúng Model hoặc Layout và cảnh báo khi liên kết nguồn không còn"
                 ]
 }
