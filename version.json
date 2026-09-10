@@ -1,12 +1,13 @@
 ﻿{
-    "version":  "2.0.57",
-    "releaseDate":  "2026-09-08",
+    "version":  "2.0.58",
+    "releaseDate":  "2026-09-10",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "15204936d7d03328d29072370431c7051c23003463cb277c3b53f4580487d313",
-    "signature":  "ddWJNk/3A4oB9kiLa09S8S0JR/jgHPdKFKbcCtFfbkWuS7Xn6Waq34EZqqHRFJ+pk1fVBDmbGgO3I4XJhIX0prEPvjnlHegtkZNAblQg1HR9PZWZdVvymmmr0DF8VtNE5y5F5JoMmluku1M5P0e4a70StbR5r38ED/CBlAqEIKGLgMuyp7JOoxn6DaUOpjfXUhkq07Jec4+7RxjZigop2sBX3j2xGWDNR1ttc9TDUtRuQg8H+MFO8arBP6fgqo6VufBy1gAisdV4Favx7fXWnOapIJ67vnrxJXgBcjFLiA1UUXxzFbbOP7stngebNGaQOmqAJ+QxlXLWuYkqiv1OnQ==",
+    "sha256":  "4e185158758f364ccf5d075035d23b7c6488b81de8a532f40ffb419b763881df",
+    "signature":  "WR3mAs4okykfd2YcznR0G96ytT5orrerBm9siO4GHzMsPrKWEC4C1lVCpzDF0/2waoF3tvsxf0ZAx9K6G+OLU/eHzs1t2+WfwTUKYh58PltpJzZu6rsFa2sy6RwN1XOx/g+rXiejAWZTWnfycMxri2Pd+L7YaCYgkDsDi+gSBUwLEClbCBLmvqwWluYZ7IZjjD6WV3IuAmJgdQadDJJjWKfq2kuRH/b5kr09exVkXeG40OX13ZaJ6Q64ieFPC4jUo2ydLD5Xxnsn8x2PIHYTS+Prd79e7GwlcshVuZT1H1ZzjQnvNuM8Z+xECL9cMsL6IUsxy179mae4+P/pWEWBSA==",
     "changes":  [
-                    "Thêm tính ván khuôn bốn mặt đứng và bê tông lót móng",
-                    "Hỗ trợ móng có phần vát hoặc móng khối chữ nhật không vát",
-                    "Bỏ ex/ey, cải thiện giao diện nhập và giữ tương thích dữ liệu móng cũ"
+                    "Thêm nút đo nhanh liên hoàn kích thước móng đơn từ mặt bằng và mặt cắt",
+                    "Tự nhận cạnh dài ngắn A B và a b, hiển thị lời nhắc bằng Dynamic Input AutoCAD",
+                    "Cho phép chọn TEXT hoặc MTEXT để điền tên móng",
+                    "Thêm đường nhập key đã mua ngay khi đang dùng thử"
                 ]
 }
