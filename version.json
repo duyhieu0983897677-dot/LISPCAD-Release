@@ -1,12 +1,10 @@
 ﻿{
-    "version":  "2.0.59",
-    "releaseDate":  "2026-09-10",
+    "version":  "2.0.60",
+    "releaseDate":  "2026-09-11",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "7b0d33aead3beb30cc9e27977e36f77669cd9e5b8fe1d06fb21fe974689a159f",
-    "signature":  "BgXvt+ECE4K+WbgcNrNsmZoUg9yFDEPO3dktJPfMeDBkXXIaelCL3yaUbtxf4kFCXjxrJJPJKSCTbM+3cggCjXcqigS5Cp92HjdKQVBwH2PDMT2B/DPmNkMq1/Rls6+B0G7W6wdZFdfGpc1qxOqzTKleyvcunzbbNqnPmLt08Qm6DJ9yQXYBWBt9k+KsJ6fuo91zsOZ9Ox7m8Ac02ZOLWTw3NnQ/IS8363gZONVlAQJdGb0saIv1MrWdahLhONkwiBXRVxDDKyod0WKZtV1c7iebjd82A6y7eCCre/HPmuY3gDjm8ipA0DvhR6mSpXMoQf2TLMgxm6L/R7I3Tm0iNA==",
+    "sha256":  "c6e574e235a8499e715ab9e978885915a935985e1fbca24b0fb32d7a00136b96",
+    "signature":  "USbK7yNQJABrW1vw2pHlzsQ9+i30bKQr+F+Bq2OHRfPLsy482ErSItj20tWZICXUgxCon7Sipz1JWmjFlBv54jcnqcYTAclRgchKeKOIKGYWXmF2Yh6y68eZMMHDkt6JFRfRFHd+VnIQU9SI1CrOk7nNzbXrBoxtugkMDdNYgdMkaCIIfFKNwzF66b8kx5j9ka2K0yei5TbE94rBtG8oUsTDLrRt9mvbcxqeOejqDPl3eDqA9rbht0nlCjGt06oOrDImhechiiKqxPsNirmtmBhjn6iw7/dVaO0swbMruwCgkM/sWf9ZzXAQAU9YnBjr+jdi7xIhUmuOAut3nOst1g==",
     "changes":  [
-                    "Lưu liên kết TEXT/MTEXT nguồn theo từng dòng của bảng thống kê CAD",
-                    "Thêm nút Tìm trong TK để click dòng, tự zoom và chọn sáng các TEXT/MTEXT tương ứng",
-                    "Tự chuyển đúng Model hoặc Layout và cảnh báo khi liên kết nguồn không còn"
+                    "Thêm Scale chi tiết về 1:1; đổi lệnh tắt Tool CAD thành CDI, CT, CCD, CDT, TKT, FTKT và EXT."
                 ]
 }
