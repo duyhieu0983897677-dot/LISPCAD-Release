@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.60",
+    "version":  "2.0.61",
     "releaseDate":  "2026-09-11",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "c6e574e235a8499e715ab9e978885915a935985e1fbca24b0fb32d7a00136b96",
-    "signature":  "USbK7yNQJABrW1vw2pHlzsQ9+i30bKQr+F+Bq2OHRfPLsy482ErSItj20tWZICXUgxCon7Sipz1JWmjFlBv54jcnqcYTAclRgchKeKOIKGYWXmF2Yh6y68eZMMHDkt6JFRfRFHd+VnIQU9SI1CrOk7nNzbXrBoxtugkMDdNYgdMkaCIIfFKNwzF66b8kx5j9ka2K0yei5TbE94rBtG8oUsTDLrRt9mvbcxqeOejqDPl3eDqA9rbht0nlCjGt06oOrDImhechiiKqxPsNirmtmBhjn6iw7/dVaO0swbMruwCgkM/sWf9ZzXAQAU9YnBjr+jdi7xIhUmuOAut3nOst1g==",
+    "sha256":  "d7878e75b33e9765339811fe7a42307b3a39ba93f04383f2f0a769bae6e8bd83",
+    "signature":  "a9O7QXI8vTcSPxVuYCPnBChO/b/G1suv7cL10nrbp7fqh/GFjtsB4ndfgQoN8hQ103wZYnqfDqFm/VYs5OCvV9SQRAVcaAqWUVc4OKFXzaBQyvXC9IwAG3yhgWDMhj/Thk01UoRlAnDV52xw4RPcqiMgtoobAsMt5axNb3rGEe+AeJ2syZf86D2+nsFjUyRMTf8JfH5suz8cn1REsuDUxoz/nAAcV0/mcWEj+XkrSwI16W2XhfN8Esl8/ndMn5Cp13c+TNQzwB1XQKiGFFVXPIDF3Y73wyUGhkDItOB1VdsrfTF8PVJGiFUHokSR3m7dRLZj9fxaO3RF6EQ8qKY2sg==",
     "changes":  [
-                    "Thêm Scale chi tiết về 1:1; đổi lệnh tắt Tool CAD thành CDI, CT, CCD, CDT, TKT, FTKT và EXT."
+                    "Thêm nút Chuẩn font trong Tool CAD để chuyển TEXT, MTEXT, DIM và Attribute về VK_STANDARD (Arial)"
                 ]
 }
