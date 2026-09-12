@@ -1,10 +1,12 @@
 ﻿{
-    "version":  "2.0.61",
-    "releaseDate":  "2026-09-11",
+    "version":  "2.0.62",
+    "releaseDate":  "2026-09-12",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "d7878e75b33e9765339811fe7a42307b3a39ba93f04383f2f0a769bae6e8bd83",
-    "signature":  "a9O7QXI8vTcSPxVuYCPnBChO/b/G1suv7cL10nrbp7fqh/GFjtsB4ndfgQoN8hQ103wZYnqfDqFm/VYs5OCvV9SQRAVcaAqWUVc4OKFXzaBQyvXC9IwAG3yhgWDMhj/Thk01UoRlAnDV52xw4RPcqiMgtoobAsMt5axNb3rGEe+AeJ2syZf86D2+nsFjUyRMTf8JfH5suz8cn1REsuDUxoz/nAAcV0/mcWEj+XkrSwI16W2XhfN8Esl8/ndMn5Cp13c+TNQzwB1XQKiGFFVXPIDF3Y73wyUGhkDItOB1VdsrfTF8PVJGiFUHokSR3m7dRLZj9fxaO3RF6EQ8qKY2sg==",
+    "sha256":  "65b20eea8871e3a0c97eedbf937c14b017db4a0248559fd7c7ec96780814c845",
+    "signature":  "GBMbGc6/C4tEGp5VrWIiW8jzbNOSpTVPFfA1wcLmteXxLynfHsqxXT71hpmMahNAA1JPNJxskUhpf81/WFJm+FTMa0UtqkrumOUusUNX/NOs5vXUHGoN2YyVZP5pQ9HNjtuIKzRQahdA1d9Ir201yczU3XbQNN1sI6UoVRHu0WIz+f4S3nPi9KLRyIJRRYjBVvjMlEoesbvD3gOZ6llnJythcwg0ZZ06CXbQirNiKTn+Yfb/nckLg9j/1M1EJxhWjgEVmXS0zlDdqSgqAM9sENsGAxMD24oDCcNpToX/wSjmw/7vFg4g8AnwiNszKJhWMBAb5rE96lz3r5t0k72PVQ==",
     "changes":  [
-                    "Thêm nút Chuẩn font trong Tool CAD để chuyển TEXT, MTEXT, DIM và Attribute về VK_STANDARD (Arial)"
+                    "Thêm Ribbon VDH_KL liền kề sxCAD với các lệnh thường dùng",
+                    "Ổn định nút Bóc KL, Tính cấu kiện và Công thức bằng ba tab palette độc lập",
+                    "Sửa icon Ribbon hiển thị trọn vẹn theo chuẩn 32x32 của AutoCAD"
                 ]
 }
