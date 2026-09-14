@@ -1,12 +1,11 @@
 ﻿{
-    "version":  "2.0.62",
-    "releaseDate":  "2026-09-12",
+    "version":  "2.0.63",
+    "releaseDate":  "2026-09-14",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "65b20eea8871e3a0c97eedbf937c14b017db4a0248559fd7c7ec96780814c845",
-    "signature":  "GBMbGc6/C4tEGp5VrWIiW8jzbNOSpTVPFfA1wcLmteXxLynfHsqxXT71hpmMahNAA1JPNJxskUhpf81/WFJm+FTMa0UtqkrumOUusUNX/NOs5vXUHGoN2YyVZP5pQ9HNjtuIKzRQahdA1d9Ir201yczU3XbQNN1sI6UoVRHu0WIz+f4S3nPi9KLRyIJRRYjBVvjMlEoesbvD3gOZ6llnJythcwg0ZZ06CXbQirNiKTn+Yfb/nckLg9j/1M1EJxhWjgEVmXS0zlDdqSgqAM9sENsGAxMD24oDCcNpToX/wSjmw/7vFg4g8AnwiNszKJhWMBAb5rE96lz3r5t0k72PVQ==",
+    "sha256":  "1eea1324ea5f6343d3e4c077717ee5610c55b31adcb59bd6e470d7133fd553ef",
+    "signature":  "eEJbBoEyss/kTQA1DW7my4+CEIJ95I9VSLyenRadiscNoi2XMpKzn2XZVM7PeamWcANMlCqoM8EdHrzRhfX6vAD5M6Wq7tYPBqnatxi1Fhdd5GqRuokAwIqkxJHdPKRMHkCmNTdIgZiCvpDP2Pmdm9xUf4kDwAfZwmsZZp4rhhMFxZnUqC7RtY2CylBASAr+9P66QAA+q8W3coqZEF7Uyh9fe9ZeG8A3gYyDMFJMtXUu2Q7QEUgcCw0zoeZyg2gFVQcgTVvELp7/B6DI35T3GP74LTp1/9jQWFcCoBLrr65yd64IZkQOiitgUtYZFx2ByXly4cNYKuhIMEm2YeB84A==",
     "changes":  [
-                    "Thêm Ribbon VDH_KL liền kề sxCAD với các lệnh thường dùng",
-                    "Ổn định nút Bóc KL, Tính cấu kiện và Công thức bằng ba tab palette độc lập",
-                    "Sửa icon Ribbon hiển thị trọn vẹn theo chuẩn 32x32 của AutoCAD"
+                    "Tach nut Noi net (JOIN) ra nut rieng tren Ribbon",
+                    "Doi icon Ribbon tu sprite sang emoji (Segoe UI Emoji)"
                 ]
 }
