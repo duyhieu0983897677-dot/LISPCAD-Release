@@ -1,11 +1,10 @@
 ﻿{
-    "version":  "2.0.63",
-    "releaseDate":  "2026-09-14",
+    "version":  "2.0.64",
+    "releaseDate":  "2026-11-23",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "1eea1324ea5f6343d3e4c077717ee5610c55b31adcb59bd6e470d7133fd553ef",
-    "signature":  "eEJbBoEyss/kTQA1DW7my4+CEIJ95I9VSLyenRadiscNoi2XMpKzn2XZVM7PeamWcANMlCqoM8EdHrzRhfX6vAD5M6Wq7tYPBqnatxi1Fhdd5GqRuokAwIqkxJHdPKRMHkCmNTdIgZiCvpDP2Pmdm9xUf4kDwAfZwmsZZp4rhhMFxZnUqC7RtY2CylBASAr+9P66QAA+q8W3coqZEF7Uyh9fe9ZeG8A3gYyDMFJMtXUu2Q7QEUgcCw0zoeZyg2gFVQcgTVvELp7/B6DI35T3GP74LTp1/9jQWFcCoBLrr65yd64IZkQOiitgUtYZFx2ByXly4cNYKuhIMEm2YeB84A==",
+    "sha256":  "092626267ca3069f6b106b1fba7178823c9ed5d6ac66913fcc498766ace50db3",
+    "signature":  "kDQdeRkrb7pNYXrGRN6kNF/5P+yb3PUb7amNwKxFvcG5WXtVaUdzEjCOqlrnTsHXnNAFWPk8y7yQ9IBpsWZ4WmJfaHpX8MnEhylvvjSpJqdCDGh88Sc93CL1zWO567LVfW71HUctZiDKY7KFlg5NcLYra+m530ld0Ojg3ABXmjBj+iA7lHN5rHCHjw8a2QafLWzunNM4pCE5y1C4EHr5F1JyOogsejEVM1a7qRJd2JFxPtdRhpZ9lSGj8V9qJb4hNHy34CvaH737J+CngVZzOt+xzUo9wEz64v/sHrGFpFCdIU+C5eKUb6JSsItAxkaSgxEcCjbQOcojzzJC7UfypA==",
     "changes":  [
-                    "Tach nut Noi net (JOIN) ra nut rieng tren Ribbon",
-                    "Doi icon Ribbon tu sprite sang emoji (Segoe UI Emoji)"
+                    "Sua loi ke thua he so va MaCongThuc cho dong khau tru,Them lenh VKTIMBANG dinh vi tu CAD vao Bang Thong Ke,Doi nut 06 tren Palette thanh Tim Trong Bang Thong Ke,Sua loi mat/nhay cong thuc khi gui ban ve giua cac may,Them chuc nang Xuat va Nhap file danh muc cong thuc"
                 ]
 }
