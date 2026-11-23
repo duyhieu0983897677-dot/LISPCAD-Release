@@ -1,10 +1,13 @@
 ﻿{
-    "version":  "2.0.65",
+    "version":  "2.0.66",
     "releaseDate":  "2026-11-23",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "17bc0a2aae2538603f29f411e2412ca1825e8ad30fd013fcd2639b1742ff02df",
-    "signature":  "Sx+yoZnVKWcb/7sfCvXmn5CtiAAga8b32CRVa3yTAB66Jzx8+7nCdCy0j2gdHQI47EfkF0jRDI6og2pGz9K5t0zIe2zNLFg2jj4FNzOXMVUcOJdTMyLwjNeNmGqIRJ8N7x3Ym80qZmFqd9R3+DOeh2QVCCxwbOJb1uLXdKghgGyde0hzqN9x6rqrAdDw5BEwFXbg94H6jmjsdNZKngtqCw9kUq2+0/znP0hgaPWZdoL8pINnaI15yeXT2ystz0kJfkC6pvz1NXpuOJosRF3KFFDmBTr+W43+MYARRbsILTAhZiRgwHR4R77+6ut9JBrEj0aWqYV3p2QNJu55xy9DBg==",
+    "sha256":  "e46f4754d77e63a86017ed54c892cbfce9e6190bc6f36ac9b82e199b4b7f5ada",
+    "signature":  "b6UU9aioeX3bWsxwFu7jF5dkeleZMOn9bqnrCmY6XUPBe5uar74qyEp+0drhtZKjrFDtOIxd2PFYzexmw4Lr/7p3+cCdTiJKwLdwTENbGWNgP0ZEFGuiWj1/EjATjmc6vC6jpuhznk7jfnPpucrfVnfGOtPdjnODUa2EdrBoZMzwI5dZ5Cl8cHb1e9Wt2QfsLysi8OBJz0P1oZ6J1HGuC18X06m7i006ccuw/zp8a8nEVqZv6eVyNUdFZ7ozj5TI7WtY3CKYg8ewHpN8iLuPHg1FhjxYs0/YXtUACvG3xJw9yGsvNCJVhZJz/GEVMZ2CEtCdZqz2+vByfGfl3OK7Vw==",
     "changes":  [
-                    "Tham tra cong thuc cho Ben A kiem tra ban ve Ben B: co lap RAM va nhan dien tuong duong toan hoc,Sua loi nhan khau tru dien tich bi nhay ra ngoai khi mo ban ve,Hien thi khung tru mau do khi khau tru dien tich bang chon vat co san,Bo sung thong so Cao va ap dung cong thuc tinh the tich H*S cho khau tru dien tich"
+                    "Sua loi nhan khau tru dien tich khong con bi net do cat xuyen qua, nam cach duong vien chuan 1.62*CaoChu",
+                    "Khoa goc xoay nam ngang cho nhan dien tich san, tranh bi xoay doc 90 do khi nam gan canh dung",
+                    "Bao toan ban chat Dien tich (S: ...m2) khi cau kien san co chieu cao (be tong san H*S), khong bi doi thanh D: ...m",
+                    "Dong bo hien thi dung cot Dien tich trong Bang Thong Ke va sinh cong thuc chuan khi xuat Excel"
                 ]
 }
