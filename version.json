@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "2.0.64",
+    "version":  "2.0.65",
     "releaseDate":  "2026-11-23",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "092626267ca3069f6b106b1fba7178823c9ed5d6ac66913fcc498766ace50db3",
-    "signature":  "kDQdeRkrb7pNYXrGRN6kNF/5P+yb3PUb7amNwKxFvcG5WXtVaUdzEjCOqlrnTsHXnNAFWPk8y7yQ9IBpsWZ4WmJfaHpX8MnEhylvvjSpJqdCDGh88Sc93CL1zWO567LVfW71HUctZiDKY7KFlg5NcLYra+m530ld0Ojg3ABXmjBj+iA7lHN5rHCHjw8a2QafLWzunNM4pCE5y1C4EHr5F1JyOogsejEVM1a7qRJd2JFxPtdRhpZ9lSGj8V9qJb4hNHy34CvaH737J+CngVZzOt+xzUo9wEz64v/sHrGFpFCdIU+C5eKUb6JSsItAxkaSgxEcCjbQOcojzzJC7UfypA==",
+    "sha256":  "17bc0a2aae2538603f29f411e2412ca1825e8ad30fd013fcd2639b1742ff02df",
+    "signature":  "Sx+yoZnVKWcb/7sfCvXmn5CtiAAga8b32CRVa3yTAB66Jzx8+7nCdCy0j2gdHQI47EfkF0jRDI6og2pGz9K5t0zIe2zNLFg2jj4FNzOXMVUcOJdTMyLwjNeNmGqIRJ8N7x3Ym80qZmFqd9R3+DOeh2QVCCxwbOJb1uLXdKghgGyde0hzqN9x6rqrAdDw5BEwFXbg94H6jmjsdNZKngtqCw9kUq2+0/znP0hgaPWZdoL8pINnaI15yeXT2ystz0kJfkC6pvz1NXpuOJosRF3KFFDmBTr+W43+MYARRbsILTAhZiRgwHR4R77+6ut9JBrEj0aWqYV3p2QNJu55xy9DBg==",
     "changes":  [
-                    "Sua loi ke thua he so va MaCongThuc cho dong khau tru,Them lenh VKTIMBANG dinh vi tu CAD vao Bang Thong Ke,Doi nut 06 tren Palette thanh Tim Trong Bang Thong Ke,Sua loi mat/nhay cong thuc khi gui ban ve giua cac may,Them chuc nang Xuat va Nhap file danh muc cong thuc"
+                    "Tham tra cong thuc cho Ben A kiem tra ban ve Ben B: co lap RAM va nhan dien tuong duong toan hoc,Sua loi nhan khau tru dien tich bi nhay ra ngoai khi mo ban ve,Hien thi khung tru mau do khi khau tru dien tich bang chon vat co san,Bo sung thong so Cao va ap dung cong thuc tinh the tich H*S cho khau tru dien tich"
                 ]
 }
