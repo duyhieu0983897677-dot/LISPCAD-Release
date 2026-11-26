@@ -1,11 +1,12 @@
 ﻿{
-    "version":  "2.0.67",
-    "releaseDate":  "2026-11-23",
+    "version":  "2.0.68",
+    "releaseDate":  "2026-11-26",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "50f0008b3ca569781d8c8abebf0ec971fd9ea5d1f69822f136511df3762027e1",
-    "signature":  "SMAqPqVKfWJxImw+cU8lb4XV4oUMbT3PU46ft+iMHeVzMIwT76YlZcj0ccgP6nsuivZzsk+5tEyUTPcG9B4q+X4N6MIxxRGEeumtIL98yJ/mC1JvwQTcPkz4mVuFTGJgMC/hwDR7YmjrcUNp9L/HcGTDgraqjPVHCwdbjRolgo73bWUgomxPq41GMiWb8pxGEl/YPu9x6yWLbuV7OROx3jsuULJj3oBuhyeUqfyt4TagO6GrTQqOBAC3NRAKEdN5pz0AF6SlcC16PqGgq6z5MxbbOIF/8XMfpSoT77tzl7DaMKURpEJMRzk63d8NLS7S9S7chaHxEU/cK+E/J4HH0A==",
+    "sha256":  "4ecaedd87d81225c0e256ce6fa5185d0ed3a9cfa8639aaeffefb861863d09b0e",
+    "signature":  "PyMFMyW+6xatH8elZRTLKcJAUzK5b4s/KO7xnZO47P3IKSN4fbYRgz3Jm3k0zrid4RvJq4OHd7fermkJq0PuQwc//W8lnjnhaa22G3Zok34u1iyX4zPqupPww8+UNQSn9EbH274+QfReyNuJiJ9oMZrP144d5y5RY8rvRoWgXp9s+WECoDS9UlVo0/IQC47y7HYo7px0O44WkBxNtv1AR6DX/v/aAxj7BLXowIrQs+sJ6Fy9aiN7huKmJro+T+4QeFq7eHOveZjiPtXw/fdIlP0T7f5GFul9LliVPV86V3HntgKg0r4zvhM/1Xx6BksRDbd62GX8IqF0ADwIuHNXkA==",
     "changes":  [
-                    "Sua nhan cong tac do dai (Trat tuong, Son tuong...) hien thi dung D va m",
-                    "Khong bi cuong ep thanh S va m2 khi don vi la m2"
+                    "Bo Regen toan ban ve chong giat 2s khi ket thuc lenh ve",
+                    "Dong bo mau va layer khi doi ten/cong tac doi tuong (20 mau tuong phan FNV-1a)",
+                    "Dong bo luu NOD o VKCHON, cap nhat Hatch o VKAPDUNG va LaDienTich khi doi cong thuc"
                 ]
 }
