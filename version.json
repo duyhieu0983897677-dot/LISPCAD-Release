@@ -1,13 +1,12 @@
 ﻿{
-    "version":  "2.0.69",
+    "version":  "2.0.70",
     "releaseDate":  "2026-11-27",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "28e4478b742338c79f3eaa020e33a76f0132899cc242c284786e3b52b1832e6f",
-    "signature":  "ihRVcJawudYOm5tXdGaRTSP75i/F/lRa8IAR3wiMidn7gJBFjk+o/vtPN/rKUyWvkhnB7yYXgPBIVLwwWMNeDJKuqdy52fzkm8b3IzNwvdrFiV5Z82STNifYoFDesKjre5oUJWbY6iyuKDzU+5QmWjvnmbnEqkLt4DL0NVBHygkjlU9UA1WKGGvI+MwaDr0dgZfXu0fKBmhRMwE49y+Yjqyy1jEQBxcERFAZs7J4neM4B7GXjMDwMKKK+8DECyhx25bkFm4l9Bt9s4EpsvM7elyafOt5syWy9aqbwSmemmVDWi2Nko3fGvmRhEM6j73JIMgg7CseLIa1Z0MxehpjTA==",
+    "sha256":  "465e84c5df31c828f20bb3414791b2124b1b8b572f6dacad39df3b3a816f66b4",
+    "signature":  "df0uTUtBeekT+fVuabzh1JaZ1Ma/7ZTRe0bbUK1OfdLBgnTAa/6FrX+fvkMCv2YHtfu8rfxp2WWaY2UQKt8ykcS7MArI6KGPno1e0j/O8/Bo1p7lciDStqIrIqHEUoTSdb+po/slduEAll3BnqXa4o0YXdEkBdg19LGh5iFCYfxcEVePRbg06vp5wp4zbaNvBUGsK9kcdVdxNbL3kzTesQzAeiozdq+GKsOykAemGszLXcefpzyhkHf0v5P1GW7OdQ7rCo+ADPwVU/xE0B0Zx5643uod3Iv35p5sz683UMQpwke2XeCk5vihe2sDJWrAr6MH7lNuT42bWFX4NeV9dg==",
     "changes":  [
-                    "Cập nhật tính năng tính thép",
-                    "Phân cấp Hạng mục - Cấu kiện - Thanh thép, sinh thép nhanh, lấy cấu kiện từ Bê tông",
-                    "Xuất Excel chuẩn kẻ viền 3x3 D-E-F, công thức sống B-H-L, nhiều vùng rải Q..AO và Row Group",
-                    "Bổ sung Tìm Text/MText tiếng Việt (VKTIMTEXT) và đưa tab Thép ra cạnh phải Palette"
+                    "Cập nhật tính năng tính thép (bản sửa đóng gói kèm form mẫu Excel thep.xlsx)",
+                    "Nhúng sẵn form mẫu thep.xlsx vào gói cài đặt \u0026 DLL để xuất Excel trên mọi máy người dùng",
+                    "Hỗ trợ xuất Excel kẻ viền 3x3 D-E-F, công thức sống B-H-L, nhiều vùng rải Q..AO và Row Group"
                 ]
 }
