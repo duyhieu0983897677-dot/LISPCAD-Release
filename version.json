@@ -1,12 +1,13 @@
 ﻿{
-    "version":  "2.0.68",
-    "releaseDate":  "2026-11-26",
+    "version":  "2.0.69",
+    "releaseDate":  "2026-11-27",
     "downloadUrl":  "https://github.com/duyhieu0983897677-dot/LISPCAD-Release/raw/main/VK_QuanLyKhoiLuong_v2.0.zip",
-    "sha256":  "4ecaedd87d81225c0e256ce6fa5185d0ed3a9cfa8639aaeffefb861863d09b0e",
-    "signature":  "PyMFMyW+6xatH8elZRTLKcJAUzK5b4s/KO7xnZO47P3IKSN4fbYRgz3Jm3k0zrid4RvJq4OHd7fermkJq0PuQwc//W8lnjnhaa22G3Zok34u1iyX4zPqupPww8+UNQSn9EbH274+QfReyNuJiJ9oMZrP144d5y5RY8rvRoWgXp9s+WECoDS9UlVo0/IQC47y7HYo7px0O44WkBxNtv1AR6DX/v/aAxj7BLXowIrQs+sJ6Fy9aiN7huKmJro+T+4QeFq7eHOveZjiPtXw/fdIlP0T7f5GFul9LliVPV86V3HntgKg0r4zvhM/1Xx6BksRDbd62GX8IqF0ADwIuHNXkA==",
+    "sha256":  "28e4478b742338c79f3eaa020e33a76f0132899cc242c284786e3b52b1832e6f",
+    "signature":  "ihRVcJawudYOm5tXdGaRTSP75i/F/lRa8IAR3wiMidn7gJBFjk+o/vtPN/rKUyWvkhnB7yYXgPBIVLwwWMNeDJKuqdy52fzkm8b3IzNwvdrFiV5Z82STNifYoFDesKjre5oUJWbY6iyuKDzU+5QmWjvnmbnEqkLt4DL0NVBHygkjlU9UA1WKGGvI+MwaDr0dgZfXu0fKBmhRMwE49y+Yjqyy1jEQBxcERFAZs7J4neM4B7GXjMDwMKKK+8DECyhx25bkFm4l9Bt9s4EpsvM7elyafOt5syWy9aqbwSmemmVDWi2Nko3fGvmRhEM6j73JIMgg7CseLIa1Z0MxehpjTA==",
     "changes":  [
-                    "Bo Regen toan ban ve chong giat 2s khi ket thuc lenh ve",
-                    "Dong bo mau va layer khi doi ten/cong tac doi tuong (20 mau tuong phan FNV-1a)",
-                    "Dong bo luu NOD o VKCHON, cap nhat Hatch o VKAPDUNG va LaDienTich khi doi cong thuc"
+                    "Cập nhật tính năng tính thép",
+                    "Phân cấp Hạng mục - Cấu kiện - Thanh thép, sinh thép nhanh, lấy cấu kiện từ Bê tông",
+                    "Xuất Excel chuẩn kẻ viền 3x3 D-E-F, công thức sống B-H-L, nhiều vùng rải Q..AO và Row Group",
+                    "Bổ sung Tìm Text/MText tiếng Việt (VKTIMTEXT) và đưa tab Thép ra cạnh phải Palette"
                 ]
 }
